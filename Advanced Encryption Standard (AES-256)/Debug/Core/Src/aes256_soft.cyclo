@@ -1,0 +1,14 @@
+../Core/Src/aes256_soft.c:56:16:xtime	1
+../Core/Src/aes256_soft.c:61:16:multiply	1
+../Core/Src/aes256_soft.c:70:6:AES256_KeyExpansion	6
+../Core/Src/aes256_soft.c:108:13:AddRoundKey	3
+../Core/Src/aes256_soft.c:118:13:SubBytes	3
+../Core/Src/aes256_soft.c:128:13:InvSubBytes	3
+../Core/Src/aes256_soft.c:138:13:ShiftRows	1
+../Core/Src/aes256_soft.c:165:13:InvShiftRows	1
+../Core/Src/aes256_soft.c:192:13:MixColumns	3
+../Core/Src/aes256_soft.c:209:13:InvMixColumns	3
+../Core/Src/aes256_soft.c:230:13:AES256_EncryptBlock	6
+../Core/Src/aes256_soft.c:266:13:AES256_DecryptBlock	6
+../Core/Src/aes256_soft.c:302:6:AES256_CBC_Encrypt	3
+../Core/Src/aes256_soft.c:327:6:AES256_CBC_Decrypt	3

@@ -1,0 +1,14 @@
+../Core/Src/aes256_soft.c:56:16:xtime	16	static
+../Core/Src/aes256_soft.c:61:16:multiply	24	static
+../Core/Src/aes256_soft.c:70:6:AES256_KeyExpansion	32	static
+../Core/Src/aes256_soft.c:108:13:AddRoundKey	32	static
+../Core/Src/aes256_soft.c:118:13:SubBytes	24	static
+../Core/Src/aes256_soft.c:128:13:InvSubBytes	24	static
+../Core/Src/aes256_soft.c:138:13:ShiftRows	24	static
+../Core/Src/aes256_soft.c:165:13:InvShiftRows	24	static
+../Core/Src/aes256_soft.c:192:13:MixColumns	32	static
+../Core/Src/aes256_soft.c:209:13:InvMixColumns	40	static
+../Core/Src/aes256_soft.c:230:13:AES256_EncryptBlock	56	static
+../Core/Src/aes256_soft.c:266:13:AES256_DecryptBlock	56	static
+../Core/Src/aes256_soft.c:302:6:AES256_CBC_Encrypt	72	static
+../Core/Src/aes256_soft.c:327:6:AES256_CBC_Decrypt	72	static
