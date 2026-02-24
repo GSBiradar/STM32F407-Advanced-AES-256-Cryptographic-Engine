@@ -48,10 +48,9 @@ A comprehensive, production-ready implementation of the Advanced Encryption Stan
 ## 📱 User Interface Features
 
 ### Main Menu System
-╔════════════════════════════════════════╗
-║   STM32F407 AES256-CBC Interactive    ║
-║        Enter text → Get Ciphertext    ║
-╚════════════════════════════════════════╝
+
+   STM32F407 AES256-CBC Interactive    
+      Enter text → Get Ciphertext    
 
 ✓ AES256 initialized with default key/IV
 
