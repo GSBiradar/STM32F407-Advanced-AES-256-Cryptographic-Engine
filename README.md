@@ -1,0 +1,2 @@
+# STM32F407-Advanced-AES-256-Cryptographic-Engine
+A comprehensive, production-ready implementation of the Advanced Encryption Standard (AES-256) in Cipher Block Chaining (CBC) mode for the STM32F Discovery board. This project features a complete software-based cryptographic engine with an interactive user interface, real-time encryption/decryption capabilities, and comprehensive security features.
