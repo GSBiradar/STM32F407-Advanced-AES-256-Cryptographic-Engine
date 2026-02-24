@@ -97,6 +97,8 @@ STM32F407 AES256-CBC Interactive Tool
 - Shows CBC mode properties
 
 ###UART OUTPUT
+
+
 <img width="438" height="310" alt="image" src="https://github.com/user-attachments/assets/88684860-3192-4a5e-8606-d57670e8f9ba" />
 <img width="268" height="140" alt="image" src="https://github.com/user-attachments/assets/d5391408-dad8-485f-a7e6-636b7eea0b3e" />
 
